@@ -30,3 +30,17 @@
 .colegio-titulo {
     padding: 24px 0;
 }
+body{
+    font-family: sans-serif;
+}
+.estudante-div{
+    text-align: center;
+    padding: 24px 0;
+    background-color: rgb(89, 89, 110);
+}
+.estudante-imagem {
+width: 120px;
+}
+.estudante-titulo {
+    padding: 30px;
+}
